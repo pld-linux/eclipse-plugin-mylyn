@@ -1,4 +1,6 @@
-
+# TODO:
+# - subpackages
+# - update desc and summary
 %define 	eclipse_ver	3.3
 %define		rev		20080402
 Summary:	mylyn
